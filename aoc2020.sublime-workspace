@@ -1,0 +1,541 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padi",
+				"padding-top\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"bla",
+				"black_rect\tlist ⟠"
+			],
+			[
+				"white",
+				"white_figures\tlist ⟠"
+			],
+			[
+				"Image",
+				"ImageTk\tmodule ⟠"
+			],
+			[
+				"black",
+				"black_figures\tlist ⟠"
+			],
+			[
+				"pawn",
+				"pawnisolated()\tfunction ⟠"
+			],
+			[
+				"bl",
+				"black_figures\tlist ⟠"
+			],
+			[
+				"whit",
+				"white_figures\tlist ⟠"
+			],
+			[
+				"blac",
+				"black_figures"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "input.txt",
+			"settings":
+			{
+				"buffer_size": 985,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "02.py",
+			"settings":
+			{
+				"buffer_size": 67,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "table.html",
+			"settings":
+			{
+				"buffer_size": 1097,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git add add",
+				"Git: Add All"
+			],
+			[
+				"git add a",
+				"Git: Add All"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git add all",
+				"Git: Add All"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git add ",
+				"Git: Add All"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"git",
+				"Git: Fetch"
+			],
+			[
+				"git che",
+				"Git: Checkout Tag"
+			],
+			[
+				"git stash",
+				"Git: Stash List"
+			],
+			[
+				"git:",
+				"Git: Gui"
+			],
+			[
+				"git ",
+				"Git: Fetch"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/kjkar/Documents/projects/AOC2020"
+	],
+	"file_history":
+	[
+		"/C/Users/kjkar/Documents/projects/AOC2020/01.py",
+		"/C/Users/kjkar/Documents/projects/AOC2020/25.py",
+		"/C/Users/kjkar/Documents/projects/AOC2020/24.py",
+		"/C/Users/kjkar/Documents/projects/AOC2020/23.py",
+		"/C/Users/kjkar/Documents/projects/AOC2020/22.py",
+		"/C/Users/kjkar/Documents/projects/AOC2020/21.py",
+		"/C/Users/kjkar/Documents/projects/AOC2020/20.py",
+		"/C/Users/kjkar/Documents/projects/AOC2020/19.py",
+		"/C/Users/kjkar/Documents/projects/AOC2020/18.py",
+		"/C/Users/kjkar/Documents/projects/AOC2020/17.py",
+		"/C/Users/kjkar/Documents/projects/AOC2020/16.py",
+		"/C/Users/kjkar/Documents/projects/AOC2020/15.py",
+		"/C/Users/kjkar/Documents/projects/AOC2020/14.py",
+		"/C/Users/kjkar/Documents/projects/AOC2020/13.py",
+		"/C/Users/kjkar/Documents/projects/AOC2020/12.py",
+		"/C/Users/kjkar/Documents/projects/AOC2020/11.py",
+		"/C/Users/kjkar/Documents/projects/AOC2020/10.py",
+		"/C/Users/kjkar/Documents/projects/AOC2020/09.py",
+		"/C/Users/kjkar/Documents/projects/AOC2020/08.py",
+		"/C/Users/kjkar/Documents/projects/AOC2020/02.py",
+		"/C/Users/kjkar/Documents/projects/AOC2020/07.py",
+		"/C/Users/kjkar/Documents/projects/AOC2020/06.py",
+		"/C/Users/kjkar/Documents/projects/AOC2020/05.py",
+		"/C/Users/kjkar/Documents/projects/AOC2020/04.py",
+		"/C/Users/kjkar/Documents/projects/AOC2020/03.py",
+		"/C/Users/kjkar/Desktop/discord bot/bot.py",
+		"/C/Users/kjkar/Documents/projects/pythoncourse/script.js",
+		"/C/Users/kjkar/Documents/projects/pythoncourse/style.css",
+		"/C/Users/kjkar/Documents/projects/pythoncourse/index.html",
+		"/C/Users/kjkar/Documents/projects/pythoncourse/index.htm",
+		"/C/Users/kjkar/Documents/projects/pyChess/biljeske.txt",
+		"/C/Users/kjkar/Documents/projects/pyChess/app/render.py",
+		"/C/Users/kjkar/Documents/projects/pyChess/app/minimax.py",
+		"/C/Users/kjkar/Documents/projects/pyChess/app/board.py",
+		"/C/Users/kjkar/Documents/projects/pyChess/app/validatemoves.py",
+		"/C/Users/kjkar/Documents/projects/pyChess/app/figures.py",
+		"/C/Users/kjkar/Documents/projects/pyChess/run.py",
+		"/C/Users/kjkar/Downloads/minesweeper.py",
+		"/C/Users/kjkar/AppData/Roaming/Sublime Text 3/Packages/SavePrompt/SavePrompt.sublime-settings",
+		"/C/Users/kjkar/Documents/projects/pyChess/.gitignore",
+		"/C/Users/kjkar/AppData/Local/Temp/kite_tutorial.py",
+		"/C/Users/kjkar/Documents/projects/Chess vs PC/run.py",
+		"/C/Users/kjkar/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/C/Users/kjkar/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/C/Users/kjkar/AppData/Roaming/Sublime Text 3/Packages/Terminal/Default (Windows).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"k",
+			"subprocess",
+			"asyncio",
+			"link()",
+			"_",
+			"hannel)",
+			"channel",
+			", dirpat",
+			", dirpath",
+			",",
+			"j[0].name",
+			"sklgdh",
+			"self",
+			"[i]",
+			"i",
+			"           ",
+			"          ",
+			"         ",
+			"        ",
+			"       ",
+			"      ",
+			"     ",
+			"    ",
+			"50",
+			"icon",
+			"black_figures",
+			"black_rect",
+			"black_figures[-1]",
+			"[-1]",
+			"pygame",
+			"black_rect",
+			"black_figures",
+			"charImage",
+			"black_figures",
+			"screen",
+			"background",
+			"10",
+			"title",
+			"mw",
+			"tk",
+			"black_figures",
+			"child",
+			"moves",
+			"moves+",
+			"child",
+			"+",
+			"max",
+			"maxEval",
+			"inframe",
+			"x+figure.color",
+			"validmoves(self)",
+			"def moves",
+			"[",
+			")*2",
+			"loc",
+			"True",
+			"white_figures",
+			"moves"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\Users\\kjkar\\Documents\\projects\\AOC2020"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "input.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 985,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								985,
+								985
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "02.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 67,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								67,
+								67
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "table.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1097,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								40,
+								40
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 71.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 248.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 127.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 215.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
