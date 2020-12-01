@@ -4,4 +4,4 @@ for i,a in enumerate(l):
 	for ii,b in enumerate(l[i+1:]):
 		for c in l[ii+1:]:
 			if a+b+c==2020:
-				print(3,a*b*c)
+				print(a*b*c)
