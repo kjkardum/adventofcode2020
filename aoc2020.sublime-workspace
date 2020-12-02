@@ -55,16 +55,24 @@
 			"file": "input.txt",
 			"settings":
 			{
-				"buffer_size": 985,
-				"encoding": "UTF-8",
+				"buffer_size": 20706,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "01.py",
+			"file": "03.py",
 			"settings":
 			{
-				"buffer_size": 182,
+				"buffer_size": 67,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "02.py",
+			"settings":
+			{
+				"buffer_size": 418,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		}
@@ -97,16 +105,44 @@
 		"selected_items":
 		[
 			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"git pus\t",
+				"Git: Push"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"gits",
+				"Git: Status"
+			],
+			[
+				"add",
+				"Git: Add All"
+			],
+			[
+				"git:",
+				"Git: Gui"
+			],
+			[
+				"git:comm",
+				"Git: Commit"
+			],
+			[
+				"git: stat",
+				"Git: Status"
+			],
+			[
 				"git pus",
 				"Git: Push"
 			],
 			[
 				"gitcom",
 				"Git: Commit"
-			],
-			[
-				"git",
-				"Git: Add All"
 			],
 			[
 				"commi",
@@ -197,10 +233,6 @@
 				"Git: Stash List"
 			],
 			[
-				"git:",
-				"Git: Gui"
-			],
-			[
 				"git c",
 				"Git: Commit"
 			]
@@ -230,8 +262,9 @@
 	"file_history":
 	[
 		"/C/Users/kjkar/Documents/projects/AOC2020/02.py",
-		"/C/Users/kjkar/Documents/projects/AOC2020/table.html",
+		"/C/Users/kjkar/Documents/projects/AOC2020/input.txt",
 		"/C/Users/kjkar/Documents/projects/AOC2020/01.py",
+		"/C/Users/kjkar/Documents/projects/AOC2020/table.html",
 		"/C/Users/kjkar/Documents/projects/AOC2020/25.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/24.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/23.py",
@@ -292,6 +325,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			")",
+			"+1",
+			"nt(i[0][",
+			"int(i[0][0])",
+			"l[",
 			"k",
 			"subprocess",
 			"asyncio",
@@ -373,7 +411,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -382,15 +420,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 985,
+						"buffer_size": 20706,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4,
-								4
+								0,
+								0
 							]
 						],
 						"settings":
@@ -401,24 +439,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "01.py",
+					"file": "03.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 182,
+						"buffer_size": 67,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								177,
-								177
+								0,
+								0
 							]
 						],
 						"settings":
@@ -426,6 +464,34 @@
 							"syntax": "Packages/Python/Python.sublime-syntax"
 						},
 						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "02.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 418,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								418,
+								402
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 54.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
