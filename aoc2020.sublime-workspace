@@ -55,7 +55,8 @@
 			"file": "input.txt",
 			"settings":
 			{
-				"buffer_size": 20706,
+				"buffer_size": 10335,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
@@ -63,16 +64,7 @@
 			"file": "03.py",
 			"settings":
 			{
-				"buffer_size": 67,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "02.py",
-			"settings":
-			{
-				"buffer_size": 318,
-				"encoding": "UTF-8",
+				"buffer_size": 263,
 				"line_ending": "Windows"
 			}
 		}
@@ -105,6 +97,30 @@
 		"selected_items":
 		[
 			[
+				"gitpus",
+				"Git: Push"
+			],
+			[
+				"gitcom ",
+				"Git: Commit"
+			],
+			[
+				"gitadd",
+				"Git: Add All"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"gitcom",
+				"Git: Commit"
+			],
+			[
+				"gitad",
+				"Git: Add All"
+			],
+			[
 				"push",
 				"Git: Push"
 			],
@@ -125,10 +141,6 @@
 				"Git: Push"
 			],
 			[
-				"git com",
-				"Git: Commit"
-			],
-			[
 				"gits",
 				"Git: Status"
 			],
@@ -147,10 +159,6 @@
 			[
 				"git pus",
 				"Git: Push"
-			],
-			[
-				"gitcom",
-				"Git: Commit"
 			],
 			[
 				"commi",
@@ -417,7 +425,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -426,15 +434,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 20706,
+						"buffer_size": 10335,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								10335,
+								10335
 							]
 						],
 						"settings":
@@ -442,10 +450,10 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 2269.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -454,43 +462,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 67,
+						"buffer_size": 263,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "02.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 318,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								188,
-								188
+								97,
+								97
 							]
 						],
 						"settings":
