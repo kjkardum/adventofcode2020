@@ -59,14 +59,6 @@
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
-		},
-		{
-			"file": "03.py",
-			"settings":
-			{
-				"buffer_size": 263,
-				"line_ending": "Windows"
-			}
 		}
 	],
 	"build_system": "Packages/Python/Python.sublime-build",
@@ -101,6 +93,14 @@
 				"Git: Push"
 			],
 			[
+				"gitcom",
+				"Git: Commit"
+			],
+			[
+				"gitad",
+				"Git: Add All"
+			],
+			[
 				"gitcom ",
 				"Git: Commit"
 			],
@@ -111,14 +111,6 @@
 			[
 				"git com",
 				"Git: Commit"
-			],
-			[
-				"gitcom",
-				"Git: Commit"
-			],
-			[
-				"gitad",
-				"Git: Add All"
 			],
 			[
 				"push",
@@ -273,6 +265,7 @@
 	],
 	"file_history":
 	[
+		"/C/Users/kjkar/Documents/projects/AOC2020/03.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/02.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/input.txt",
 		"/C/Users/kjkar/Documents/projects/AOC2020/01.py",
@@ -299,7 +292,6 @@
 		"/C/Users/kjkar/Documents/projects/AOC2020/06.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/05.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/04.py",
-		"/C/Users/kjkar/Documents/projects/AOC2020/03.py",
 		"/C/Users/kjkar/Desktop/discord bot/bot.py",
 		"/C/Users/kjkar/Documents/projects/pythoncourse/script.js",
 		"/C/Users/kjkar/Documents/projects/pythoncourse/style.css",
@@ -323,7 +315,7 @@
 	],
 	"find":
 	{
-		"height": 31.0
+		"height": 29.0
 	},
 	"find_in_files":
 	{
@@ -337,6 +329,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"total",
 			"i[1]",
 			"int",
 			")",
@@ -425,7 +418,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -450,35 +443,7 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 2269.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "03.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 263,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								97,
-								97
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 701.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -489,7 +454,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 31.0
+		"height": 29.0
 	},
 	"input":
 	{
@@ -534,7 +499,7 @@
 	"project": "",
 	"replace":
 	{
-		"height": 58.0
+		"height": 54.0
 	},
 	"save_all_on_build": true,
 	"select_file":
