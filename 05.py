@@ -1,1 +1,1 @@
-print((lambda l:(max(l),max([(i-1 in l and i+1 in l and not i in l)*i for i in range(1,5000)])))((lambda l:sorted(l))([int(i[:7],2)*8+int(i[7:],2) for i in [i.strip().replace('F','0').replace('B','1').replace('L','0').replace('R','1') for i in open('input.txt','r').readlines()]])))
+print([(max(l),max({*range(max(l))}-{*l}))for l in[[int(bytes(48+(x in"BR")for x in i),2)//2for i in open('input.txt')]]])

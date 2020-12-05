@@ -59,16 +59,17 @@
 			"file": "input.txt",
 			"settings":
 			{
-				"buffer_size": 18619,
+				"buffer_size": 9206,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "04.py",
+			"file": "05.py",
 			"settings":
 			{
-				"buffer_size": 805,
+				"buffer_size": 270,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		}
@@ -101,11 +102,11 @@
 		"selected_items":
 		[
 			[
-				"gitpus",
+				"gitp",
 				"Git: Push"
 			],
 			[
-				"gitcom",
+				"gitco",
 				"Git: Commit"
 			],
 			[
@@ -113,7 +114,35 @@
 				"Git: Add All"
 			],
 			[
-				"gitp",
+				"gitsta",
+				"Git: Status"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"gitcom",
+				"Git: Commit"
+			],
+			[
+				"gitadd",
+				"Git: Add All"
+			],
+			[
+				"gitstat",
+				"Git: Status"
+			],
+			[
+				"gitpus",
 				"Git: Push"
 			],
 			[
@@ -122,14 +151,6 @@
 			],
 			[
 				"gitcom ",
-				"Git: Commit"
-			],
-			[
-				"gitadd",
-				"Git: Add All"
-			],
-			[
-				"git com",
 				"Git: Commit"
 			],
 			[
@@ -169,20 +190,12 @@
 				"Git: Status"
 			],
 			[
-				"git pus",
-				"Git: Push"
-			],
-			[
 				"commi",
 				"Git: Commit"
 			],
 			[
 				"git bra",
 				"Git: Change Branch"
-			],
-			[
-				"git sta",
-				"Git: Status"
 			],
 			[
 				"git ",
@@ -285,6 +298,8 @@
 	],
 	"file_history":
 	[
+		"/C/Users/kjkar/Documents/projects/AOC2020/06.py",
+		"/C/Users/kjkar/Documents/projects/AOC2020/04.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/03.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/02.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/input.txt",
@@ -309,9 +324,7 @@
 		"/C/Users/kjkar/Documents/projects/AOC2020/09.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/08.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/07.py",
-		"/C/Users/kjkar/Documents/projects/AOC2020/06.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/05.py",
-		"/C/Users/kjkar/Documents/projects/AOC2020/04.py",
 		"/C/Users/kjkar/Desktop/discord bot/bot.py",
 		"/C/Users/kjkar/Documents/projects/pythoncourse/script.js",
 		"/C/Users/kjkar/Documents/projects/pythoncourse/style.css",
@@ -335,7 +348,7 @@
 	],
 	"find":
 	{
-		"height": 42.0
+		"height": 28.0
 	},
 	"find_in_files":
 	{
@@ -349,6 +362,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"+1",
 			"\t",
 			"\t\t\t",
 			"+",
@@ -459,15 +473,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 18619,
+						"buffer_size": 9206,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								18619,
-								18619
+								9096,
+								9096
 							]
 						],
 						"settings":
@@ -475,7 +489,7 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1722.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -483,26 +497,26 @@
 				},
 				{
 					"buffer": 1,
-					"file": "04.py",
+					"file": "05.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 805,
+						"buffer_size": 270,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								270,
+								270
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Python/Python.sublime-syntax"
 						},
-						"translation.x": 0.0,
+						"translation.x": 273.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
@@ -514,7 +528,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 31.0
+		"height": 28.0
 	},
 	"input":
 	{
@@ -559,7 +573,7 @@
 	"project": "",
 	"replace":
 	{
-		"height": 58.0
+		"height": 52.0
 	},
 	"save_all_on_build": true,
 	"select_file":
