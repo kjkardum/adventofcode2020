@@ -1,1 +1,1 @@
-print([(max(l),max({*range(max(l))}-{*l}))for l in[[int(bytes(48+(x in"BR")for x in i),2)//2for i in open('input.txt')]]])
+print([(max(l),max({*range(max(l))}-l))for l in[{int(bytes(48+(x in"BR")for x in i),2)//2for i in open('input.txt')}]])
