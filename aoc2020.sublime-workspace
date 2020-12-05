@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"isal",
+				"isalnum\tfunction ⟠"
+			],
+			[
 				"padi",
 				"padding-top\tproperty"
 			],
@@ -55,8 +59,16 @@
 			"file": "input.txt",
 			"settings":
 			{
-				"buffer_size": 10335,
+				"buffer_size": 18619,
 				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "04.py",
+			"settings":
+			{
+				"buffer_size": 805,
 				"line_ending": "Windows"
 			}
 		}
@@ -98,6 +110,14 @@
 			],
 			[
 				"gitad",
+				"Git: Add All"
+			],
+			[
+				"gitp",
+				"Git: Push"
+			],
+			[
+				"gita",
 				"Git: Add All"
 			],
 			[
@@ -315,7 +335,7 @@
 	],
 	"find":
 	{
-		"height": 29.0
+		"height": 42.0
 	},
 	"find_in_files":
 	{
@@ -329,6 +349,18 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"\t",
+			"\t\t\t",
+			"+",
+			"\t\t\t",
+			"\t ('",
+			"('",
+			":\n\t\t\tallow=False\n\t\t\tcontinue\n\t\tif ",
+			":\n\t\t\tallow=False\n\t\t\tcontinue",
+			",",
+			" ",
+			"allow=False",
+			"if 'byr' in j and not (1920<=int(j.split(':')[1])<=2002):\n\t\t\tallow=False",
 			"total",
 			"i[1]",
 			"int",
@@ -418,7 +450,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -427,15 +459,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 10335,
+						"buffer_size": 18619,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								10335,
-								10335
+								18619,
+								18619
 							]
 						],
 						"settings":
@@ -443,7 +475,35 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 701.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "04.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 805,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -454,7 +514,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 29.0
+		"height": 31.0
 	},
 	"input":
 	{
@@ -499,7 +559,7 @@
 	"project": "",
 	"replace":
 	{
-		"height": 54.0
+		"height": 58.0
 	},
 	"save_all_on_build": true,
 	"select_file":
