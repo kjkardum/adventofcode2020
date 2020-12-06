@@ -1,2 +1,8 @@
 with open('input.txt','r') as f:
-	l=[int(i) for i in f.readlines()]
+	l=[i.split() for i in f.read().split('\n\n')]
+z=0
+for i in l:
+	for j in set("".join(i)):
+		if "".join(i).count(j)==len(i):
+			z+=1
+print(z)

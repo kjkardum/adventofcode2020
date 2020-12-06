@@ -59,16 +59,16 @@
 			"file": "input.txt",
 			"settings":
 			{
-				"buffer_size": 9206,
+				"buffer_size": 18513,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "05.py",
+			"file": "06.py",
 			"settings":
 			{
-				"buffer_size": 270,
+				"buffer_size": 173,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -102,16 +102,28 @@
 		"selected_items":
 		[
 			[
+				"gitpush\t",
+				"Git: Push"
+			],
+			[
+				"gitcom",
+				"Git: Commit"
+			],
+			[
+				"gitad",
+				"Git: Add All"
+			],
+			[
+				"gitpu",
+				"Git: Push"
+			],
+			[
 				"gitp",
 				"Git: Push"
 			],
 			[
 				"gitco",
 				"Git: Commit"
-			],
-			[
-				"gitad",
-				"Git: Add All"
 			],
 			[
 				"gitsta",
@@ -127,10 +139,6 @@
 			],
 			[
 				"git com",
-				"Git: Commit"
-			],
-			[
-				"gitcom",
 				"Git: Commit"
 			],
 			[
@@ -298,6 +306,7 @@
 	],
 	"file_history":
 	[
+		"/C/Users/kjkar/Documents/projects/AOC2020/05.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/06.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/04.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/03.py",
@@ -324,7 +333,6 @@
 		"/C/Users/kjkar/Documents/projects/AOC2020/09.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/08.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/07.py",
-		"/C/Users/kjkar/Documents/projects/AOC2020/05.py",
 		"/C/Users/kjkar/Desktop/discord bot/bot.py",
 		"/C/Users/kjkar/Documents/projects/pythoncourse/script.js",
 		"/C/Users/kjkar/Documents/projects/pythoncourse/style.css",
@@ -348,7 +356,7 @@
 	],
 	"find":
 	{
-		"height": 28.0
+		"height": 41.0
 	},
 	"find_in_files":
 	{
@@ -362,6 +370,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"nt([(max(l),max({*range(max(l))}-l)",
+			"print([(max(l),max({*range(",
+			"nt([(max",
+			"print([(max(l),max({*range(max(l))}-l))for l in[[int(bytes(48+(x in\"BR\")for x in i),2)//2for i in open('input.txt')]]])",
 			"+1",
 			"\t",
 			"\t\t\t",
@@ -473,15 +485,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 9206,
+						"buffer_size": 18513,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								9096,
-								9096
+								18513,
+								18513
 							]
 						],
 						"settings":
@@ -489,7 +501,7 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1722.0,
+						"translation.y": 38670.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -497,26 +509,26 @@
 				},
 				{
 					"buffer": 1,
-					"file": "05.py",
+					"file": "06.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 270,
+						"buffer_size": 173,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								270,
-								270
+								173,
+								173
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Python/Python.sublime-syntax"
 						},
-						"translation.x": 273.0,
+						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
