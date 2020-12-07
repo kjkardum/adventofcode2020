@@ -68,7 +68,7 @@
 			"file": "07.py",
 			"settings":
 			{
-				"buffer_size": 513,
+				"buffer_size": 434,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -108,6 +108,10 @@
 			[
 				"gitcom",
 				"Git: Commit"
+			],
+			[
+				"adda",
+				"Git: Add All"
 			],
 			[
 				"gitad",
@@ -498,8 +502,8 @@
 						"selection":
 						[
 							[
-								45475,
-								45475
+								45463,
+								45463
 							]
 						],
 						"settings":
@@ -507,7 +511,7 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 10926.0,
+						"translation.y": 10755.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -519,22 +523,22 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 513,
+						"buffer_size": 434,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								367,
-								367
+								434,
+								434
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Python/Python.sublime-syntax"
 						},
-						"translation.x": 2411.0,
+						"translation.x": 1715.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
