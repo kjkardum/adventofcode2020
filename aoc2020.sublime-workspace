@@ -59,16 +59,16 @@
 			"file": "input.txt",
 			"settings":
 			{
-				"buffer_size": 18513,
+				"buffer_size": 45505,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "06.py",
+			"file": "07.py",
 			"settings":
 			{
-				"buffer_size": 93,
+				"buffer_size": 513,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -102,7 +102,7 @@
 		"selected_items":
 		[
 			[
-				"gitpu",
+				"gitpus",
 				"Git: Push"
 			],
 			[
@@ -112,6 +112,10 @@
 			[
 				"gitad",
 				"Git: Add All"
+			],
+			[
+				"gitpu",
+				"Git: Push"
 			],
 			[
 				"gitc",
@@ -156,10 +160,6 @@
 			[
 				"gitstat",
 				"Git: Status"
-			],
-			[
-				"gitpus",
-				"Git: Push"
 			],
 			[
 				"gitcom ",
@@ -310,8 +310,8 @@
 	],
 	"file_history":
 	[
-		"/C/Users/kjkar/Documents/projects/AOC2020/05.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/06.py",
+		"/C/Users/kjkar/Documents/projects/AOC2020/05.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/04.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/03.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/02.py",
@@ -374,6 +374,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"steps",
+			"other",
 			"nt([(max(l),max({*range(max(l))}-l)",
 			"print([(max(l),max({*range(",
 			"nt([(max",
@@ -489,15 +491,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 18513,
+						"buffer_size": 45505,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								18513,
-								18513
+								45475,
+								45475
 							]
 						],
 						"settings":
@@ -505,7 +507,7 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 38919.0,
+						"translation.y": 10926.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -513,26 +515,26 @@
 				},
 				{
 					"buffer": 1,
-					"file": "06.py",
+					"file": "07.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 93,
+						"buffer_size": 513,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								93,
-								93
+								367,
+								367
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Python/Python.sublime-syntax"
 						},
-						"translation.x": 0.0,
+						"translation.x": 2411.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
