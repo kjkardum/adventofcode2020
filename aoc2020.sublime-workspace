@@ -68,7 +68,7 @@
 			"file": "06.py",
 			"settings":
 			{
-				"buffer_size": 173,
+				"buffer_size": 93,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -102,7 +102,7 @@
 		"selected_items":
 		[
 			[
-				"gitpush\t",
+				"gitpu",
 				"Git: Push"
 			],
 			[
@@ -114,7 +114,15 @@
 				"Git: Add All"
 			],
 			[
-				"gitpu",
+				"gitc",
+				"Git: Commit"
+			],
+			[
+				"gita",
+				"Git: Add All"
+			],
+			[
+				"gitpush\t",
 				"Git: Push"
 			],
 			[
@@ -152,10 +160,6 @@
 			[
 				"gitpus",
 				"Git: Push"
-			],
-			[
-				"gita",
-				"Git: Add All"
 			],
 			[
 				"gitcom ",
@@ -356,7 +360,7 @@
 	],
 	"find":
 	{
-		"height": 41.0
+		"height": 28.0
 	},
 	"find_in_files":
 	{
@@ -501,7 +505,7 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 38670.0,
+						"translation.y": 38919.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -513,15 +517,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 173,
+						"buffer_size": 93,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								173,
-								173
+								93,
+								93
 							]
 						],
 						"settings":
