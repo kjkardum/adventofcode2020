@@ -59,7 +59,7 @@
 			"file": "input.txt",
 			"settings":
 			{
-				"buffer_size": 45505,
+				"buffer_size": 5324,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -68,7 +68,8 @@
 			"file": "08.py",
 			"settings":
 			{
-				"buffer_size": 67,
+				"buffer_size": 412,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		}
@@ -101,6 +102,22 @@
 		"selected_items":
 		[
 			[
+				"gitpush\t",
+				"Git: Push"
+			],
+			[
+				"gitc",
+				"Git: Commit"
+			],
+			[
+				"gita",
+				"Git: Add All"
+			],
+			[
+				"gis",
+				"Git: Status"
+			],
+			[
 				"gitpu\t",
 				"Git: Push"
 			],
@@ -126,18 +143,6 @@
 			],
 			[
 				"gitpu",
-				"Git: Push"
-			],
-			[
-				"gitc",
-				"Git: Commit"
-			],
-			[
-				"gita",
-				"Git: Add All"
-			],
-			[
-				"gitpush\t",
 				"Git: Push"
 			],
 			[
@@ -381,6 +386,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"l[",
+			"l",
 			"steps",
 			"other",
 			"nt([(max(l),max({*range(max(l))}-l)",
@@ -498,15 +505,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 45505,
+						"buffer_size": 5324,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								45463,
-								45463
+								5324,
+								5324
 							]
 						],
 						"settings":
@@ -514,7 +521,7 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1293.0,
+						"translation.y": 12288.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -526,15 +533,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 67,
+						"buffer_size": 412,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								281,
+								281
 							]
 						],
 						"settings":
