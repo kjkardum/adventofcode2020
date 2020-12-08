@@ -65,11 +65,10 @@
 			}
 		},
 		{
-			"file": "07.py",
+			"file": "08.py",
 			"settings":
 			{
-				"buffer_size": 434,
-				"encoding": "UTF-8",
+				"buffer_size": 67,
 				"line_ending": "Windows"
 			}
 		}
@@ -102,6 +101,18 @@
 		"selected_items":
 		[
 			[
+				"gitpu\t",
+				"Git: Push"
+			],
+			[
+				"gitco",
+				"Git: Commit"
+			],
+			[
+				"gitad",
+				"Git: Add All"
+			],
+			[
 				"gitpus",
 				"Git: Push"
 			],
@@ -111,10 +122,6 @@
 			],
 			[
 				"adda",
-				"Git: Add All"
-			],
-			[
-				"gitad",
 				"Git: Add All"
 			],
 			[
@@ -136,10 +143,6 @@
 			[
 				"gitp",
 				"Git: Push"
-			],
-			[
-				"gitco",
-				"Git: Commit"
 			],
 			[
 				"gitsta",
@@ -314,6 +317,7 @@
 	],
 	"file_history":
 	[
+		"/C/Users/kjkar/Documents/projects/AOC2020/07.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/06.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/05.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/04.py",
@@ -340,7 +344,6 @@
 		"/C/Users/kjkar/Documents/projects/AOC2020/10.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/09.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/08.py",
-		"/C/Users/kjkar/Documents/projects/AOC2020/07.py",
 		"/C/Users/kjkar/Desktop/discord bot/bot.py",
 		"/C/Users/kjkar/Documents/projects/pythoncourse/script.js",
 		"/C/Users/kjkar/Documents/projects/pythoncourse/style.css",
@@ -511,7 +514,7 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 10755.0,
+						"translation.y": 1293.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -519,26 +522,26 @@
 				},
 				{
 					"buffer": 1,
-					"file": "07.py",
+					"file": "08.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 434,
+						"buffer_size": 67,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								434,
-								434
+								0,
+								0
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Python/Python.sublime-syntax"
 						},
-						"translation.x": 1715.0,
+						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
