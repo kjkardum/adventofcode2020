@@ -68,7 +68,7 @@
 			"file": "08.py",
 			"settings":
 			{
-				"buffer_size": 412,
+				"buffer_size": 368,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -102,6 +102,18 @@
 		"selected_items":
 		[
 			[
+				"gitpus",
+				"Git: Push"
+			],
+			[
+				"gic",
+				"Git: Commit"
+			],
+			[
+				"gitad\t",
+				"Git: Add All"
+			],
+			[
 				"gitpush\t",
 				"Git: Push"
 			],
@@ -128,10 +140,6 @@
 			[
 				"gitad",
 				"Git: Add All"
-			],
-			[
-				"gitpus",
-				"Git: Push"
 			],
 			[
 				"gitcom",
@@ -533,22 +541,22 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 412,
+						"buffer_size": 368,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								281,
-								281
+								368,
+								368
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Python/Python.sublime-syntax"
 						},
-						"translation.x": 0.0,
+						"translation.x": 1135.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
