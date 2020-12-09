@@ -68,8 +68,7 @@
 			"file": "09.py",
 			"settings":
 			{
-				"buffer_size": 510,
-				"encoding": "UTF-8",
+				"buffer_size": 327,
 				"line_ending": "Windows"
 			}
 		}
@@ -102,6 +101,26 @@
 		"selected_items":
 		[
 			[
+				"gitpu",
+				"Git: Push"
+			],
+			[
+				"gitc",
+				"Git: Commit"
+			],
+			[
+				"gitad",
+				"Git: Add All"
+			],
+			[
+				"gitpus",
+				"Git: Push"
+			],
+			[
+				"gitcom",
+				"Git: Commit"
+			],
+			[
 				"gitsta",
 				"Git: Status"
 			],
@@ -118,10 +137,6 @@
 				"Git: Add All"
 			],
 			[
-				"gitpus",
-				"Git: Push"
-			],
-			[
 				"gic",
 				"Git: Commit"
 			],
@@ -132,10 +147,6 @@
 			[
 				"gitpush\t",
 				"Git: Push"
-			],
-			[
-				"gitc",
-				"Git: Commit"
 			],
 			[
 				"gis",
@@ -150,20 +161,8 @@
 				"Git: Commit"
 			],
 			[
-				"gitad",
-				"Git: Add All"
-			],
-			[
-				"gitcom",
-				"Git: Commit"
-			],
-			[
 				"adda",
 				"Git: Add All"
-			],
-			[
-				"gitpu",
-				"Git: Push"
 			],
 			[
 				"gitp",
@@ -338,6 +337,7 @@
 	],
 	"file_history":
 	[
+		"/C/Users/kjkar/Documents/projects/AOC2020/09.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/08.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/07.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/06.py",
@@ -364,7 +364,6 @@
 		"/C/Users/kjkar/Documents/projects/AOC2020/12.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/11.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/10.py",
-		"/C/Users/kjkar/Documents/projects/AOC2020/09.py",
 		"/C/Users/kjkar/Desktop/discord bot/bot.py",
 		"/C/Users/kjkar/Documents/projects/pythoncourse/script.js",
 		"/C/Users/kjkar/Documents/projects/pythoncourse/style.css",
@@ -546,18 +545,18 @@
 				{
 					"buffer": 1,
 					"file": "09.py",
-					"semi_transient": false,
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 510,
+						"buffer_size": 327,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								39,
-								39
+								149,
+								149
 							]
 						],
 						"settings":
