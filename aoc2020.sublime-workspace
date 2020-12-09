@@ -59,16 +59,16 @@
 			"file": "input.txt",
 			"settings":
 			{
-				"buffer_size": 5324,
+				"buffer_size": 8562,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "08.py",
+			"file": "09.py",
 			"settings":
 			{
-				"buffer_size": 368,
+				"buffer_size": 510,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -102,6 +102,22 @@
 		"selected_items":
 		[
 			[
+				"gitsta",
+				"Git: Status"
+			],
+			[
+				"gitpus\t",
+				"Git: Push"
+			],
+			[
+				"gitc\t",
+				"Git: Commit"
+			],
+			[
+				"gita",
+				"Git: Add All"
+			],
+			[
 				"gitpus",
 				"Git: Push"
 			],
@@ -120,10 +136,6 @@
 			[
 				"gitc",
 				"Git: Commit"
-			],
-			[
-				"gita",
-				"Git: Add All"
 			],
 			[
 				"gis",
@@ -156,10 +168,6 @@
 			[
 				"gitp",
 				"Git: Push"
-			],
-			[
-				"gitsta",
-				"Git: Status"
 			],
 			[
 				"git pus",
@@ -330,6 +338,7 @@
 	],
 	"file_history":
 	[
+		"/C/Users/kjkar/Documents/projects/AOC2020/08.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/07.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/06.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/05.py",
@@ -356,7 +365,6 @@
 		"/C/Users/kjkar/Documents/projects/AOC2020/11.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/10.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/09.py",
-		"/C/Users/kjkar/Documents/projects/AOC2020/08.py",
 		"/C/Users/kjkar/Desktop/discord bot/bot.py",
 		"/C/Users/kjkar/Documents/projects/pythoncourse/script.js",
 		"/C/Users/kjkar/Documents/projects/pythoncourse/style.css",
@@ -513,15 +521,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5324,
+						"buffer_size": 8562,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5324,
-								5324
+								8547,
+								8533
 							]
 						],
 						"settings":
@@ -529,7 +537,7 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 12288.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -537,26 +545,26 @@
 				},
 				{
 					"buffer": 1,
-					"file": "08.py",
+					"file": "09.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 368,
+						"buffer_size": 510,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								368,
-								368
+								39,
+								39
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Python/Python.sublime-syntax"
 						},
-						"translation.x": 1135.0,
+						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
