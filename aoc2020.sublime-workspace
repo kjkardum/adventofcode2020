@@ -65,10 +65,10 @@
 			}
 		},
 		{
-			"file": "09.py",
+			"file": "10.py",
 			"settings":
 			{
-				"buffer_size": 327,
+				"buffer_size": 67,
 				"line_ending": "Windows"
 			}
 		}
@@ -101,12 +101,20 @@
 		"selected_items":
 		[
 			[
-				"gitpu",
+				"gitp",
 				"Git: Push"
 			],
 			[
 				"gitc",
 				"Git: Commit"
+			],
+			[
+				"gita",
+				"Git: Add All"
+			],
+			[
+				"gitpu",
+				"Git: Push"
 			],
 			[
 				"gitad",
@@ -131,10 +139,6 @@
 			[
 				"gitc\t",
 				"Git: Commit"
-			],
-			[
-				"gita",
-				"Git: Add All"
 			],
 			[
 				"gic",
@@ -163,10 +167,6 @@
 			[
 				"adda",
 				"Git: Add All"
-			],
-			[
-				"gitp",
-				"Git: Push"
 			],
 			[
 				"git pus",
@@ -527,8 +527,8 @@
 						"selection":
 						[
 							[
-								8547,
-								8533
+								0,
+								8562
 							]
 						],
 						"settings":
@@ -536,7 +536,7 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 18644.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -544,19 +544,19 @@
 				},
 				{
 					"buffer": 1,
-					"file": "09.py",
-					"semi_transient": true,
+					"file": "10.py",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 327,
+						"buffer_size": 67,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								149,
-								149
+								67,
+								67
 							]
 						],
 						"settings":
