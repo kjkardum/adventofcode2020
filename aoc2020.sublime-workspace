@@ -59,7 +59,7 @@
 			"file": "input.txt",
 			"settings":
 			{
-				"buffer_size": 8562,
+				"buffer_size": 341,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -68,7 +68,8 @@
 			"file": "10.py",
 			"settings":
 			{
-				"buffer_size": 67,
+				"buffer_size": 330,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		}
@@ -101,7 +102,7 @@
 		"selected_items":
 		[
 			[
-				"gitp",
+				"gitpus",
 				"Git: Push"
 			],
 			[
@@ -109,19 +110,23 @@
 				"Git: Commit"
 			],
 			[
+				"gitad",
+				"Git: Add All"
+			],
+			[
+				"stats",
+				"Git: Status"
+			],
+			[
+				"gitp",
+				"Git: Push"
+			],
+			[
 				"gita",
 				"Git: Add All"
 			],
 			[
 				"gitpu",
-				"Git: Push"
-			],
-			[
-				"gitad",
-				"Git: Add All"
-			],
-			[
-				"gitpus",
 				"Git: Push"
 			],
 			[
@@ -401,6 +406,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"k",
 			"l[",
 			"l",
 			"steps",
@@ -520,15 +526,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 8562,
+						"buffer_size": 341,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								8562
+								286,
+								286
 							]
 						],
 						"settings":
@@ -536,7 +542,7 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 18644.0,
+						"translation.y": 1601.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -548,15 +554,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 67,
+						"buffer_size": 330,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								67,
-								67
+								0,
+								330
 							]
 						],
 						"settings":
