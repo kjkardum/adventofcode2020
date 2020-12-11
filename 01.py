@@ -1,7 +1,1 @@
-with open('input.txt','r') as f:
-	l=[int(i) for i in f.readlines()]
-for i,a in enumerate(l):
-	for ii,b in enumerate(l[i+1:]):
-		for c in l[ii+1:]:
-			if a+b+c==2020:
-				print(a*b*c)
+print(max(*(lambda l,e:max([[[a*b*c for c in l[ii+1:]if a+b+c==2020]for ii,b in e(l[i+1:])]for i,a in e(l)]))(list(map(int,open('input.txt'))),enumerate))[0])

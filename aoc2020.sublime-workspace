@@ -65,11 +65,10 @@
 			}
 		},
 		{
-			"file": "11.py",
+			"file": "12.py",
 			"settings":
 			{
-				"buffer_size": 569,
-				"encoding": "UTF-8",
+				"buffer_size": 67,
 				"line_ending": "Windows"
 			}
 		}
@@ -106,7 +105,7 @@
 				"Git: Push"
 			],
 			[
-				"gitco",
+				"gitcom",
 				"Git: Commit"
 			],
 			[
@@ -114,11 +113,11 @@
 				"Git: Add All"
 			],
 			[
-				"gitcom\t",
+				"gitco",
 				"Git: Commit"
 			],
 			[
-				"gitcom",
+				"gitcom\t",
 				"Git: Commit"
 			],
 			[
@@ -346,6 +345,7 @@
 	],
 	"file_history":
 	[
+		"/C/Users/kjkar/Documents/projects/AOC2020/11.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/10.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/09.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/08.py",
@@ -372,7 +372,6 @@
 		"/C/Users/kjkar/Documents/projects/AOC2020/14.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/13.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/12.py",
-		"/C/Users/kjkar/Documents/projects/AOC2020/11.py",
 		"/C/Users/kjkar/Desktop/discord bot/bot.py",
 		"/C/Users/kjkar/Documents/projects/pythoncourse/script.js",
 		"/C/Users/kjkar/Documents/projects/pythoncourse/style.css",
@@ -570,26 +569,26 @@
 				},
 				{
 					"buffer": 1,
-					"file": "11.py",
+					"file": "12.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 569,
+						"buffer_size": 67,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								569,
-								569
+								67,
+								67
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Python/Python.sublime-syntax"
 						},
-						"translation.x": 2903.0,
+						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
