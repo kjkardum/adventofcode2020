@@ -65,11 +65,10 @@
 			}
 		},
 		{
-			"file": "10.py",
+			"file": "11.py",
 			"settings":
 			{
-				"buffer_size": 330,
-				"encoding": "UTF-8",
+				"buffer_size": 67,
 				"line_ending": "Windows"
 			}
 		}
@@ -106,12 +105,20 @@
 				"Git: Push"
 			],
 			[
-				"gitc",
+				"gitcom\t",
+				"Git: Commit"
+			],
+			[
+				"gitcom",
 				"Git: Commit"
 			],
 			[
 				"gitad",
 				"Git: Add All"
+			],
+			[
+				"gitc",
+				"Git: Commit"
 			],
 			[
 				"stats",
@@ -128,10 +135,6 @@
 			[
 				"gitpu",
 				"Git: Push"
-			],
-			[
-				"gitcom",
-				"Git: Commit"
 			],
 			[
 				"gitsta",
@@ -342,6 +345,7 @@
 	],
 	"file_history":
 	[
+		"/C/Users/kjkar/Documents/projects/AOC2020/10.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/09.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/08.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/07.py",
@@ -368,7 +372,6 @@
 		"/C/Users/kjkar/Documents/projects/AOC2020/13.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/12.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/11.py",
-		"/C/Users/kjkar/Documents/projects/AOC2020/10.py",
 		"/C/Users/kjkar/Desktop/discord bot/bot.py",
 		"/C/Users/kjkar/Documents/projects/pythoncourse/script.js",
 		"/C/Users/kjkar/Documents/projects/pythoncourse/style.css",
@@ -533,8 +536,8 @@
 						"selection":
 						[
 							[
-								286,
-								286
+								341,
+								341
 							]
 						],
 						"settings":
@@ -542,7 +545,7 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1601.0,
+						"translation.y": 708.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -550,11 +553,11 @@
 				},
 				{
 					"buffer": 1,
-					"file": "10.py",
+					"file": "11.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 330,
+						"buffer_size": 67,
 						"regions":
 						{
 						},
@@ -562,7 +565,7 @@
 						[
 							[
 								0,
-								330
+								0
 							]
 						],
 						"settings":
