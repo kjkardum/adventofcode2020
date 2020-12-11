@@ -59,7 +59,7 @@
 			"file": "input.txt",
 			"settings":
 			{
-				"buffer_size": 341,
+				"buffer_size": 9505,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -68,7 +68,8 @@
 			"file": "11.py",
 			"settings":
 			{
-				"buffer_size": 67,
+				"buffer_size": 569,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		}
@@ -105,16 +106,20 @@
 				"Git: Push"
 			],
 			[
+				"gitco",
+				"Git: Commit"
+			],
+			[
+				"gitad",
+				"Git: Add All"
+			],
+			[
 				"gitcom\t",
 				"Git: Commit"
 			],
 			[
 				"gitcom",
 				"Git: Commit"
-			],
-			[
-				"gitad",
-				"Git: Add All"
 			],
 			[
 				"gitc",
@@ -167,10 +172,6 @@
 			[
 				"gitpu\t",
 				"Git: Push"
-			],
-			[
-				"gitco",
-				"Git: Commit"
 			],
 			[
 				"adda",
@@ -409,6 +410,22 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"enumerate",
+			"l2",
+			"x",
+			"y",
+			"x",
+			".append(",
+			"neigh",
+			"k[",
+			"]",
+			"d",
+			"j+",
+			"i+",
+			"i",
+			"*d",
+			"1",
+			"x",
 			"k",
 			"l[",
 			"l",
@@ -529,15 +546,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 341,
+						"buffer_size": 9505,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								341,
-								341
+								0,
+								9505
 							]
 						],
 						"settings":
@@ -545,7 +562,7 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 708.0,
+						"translation.y": 1487.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -557,22 +574,22 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 67,
+						"buffer_size": 569,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								569,
+								569
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Python/Python.sublime-syntax"
 						},
-						"translation.x": 0.0,
+						"translation.x": 2903.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
