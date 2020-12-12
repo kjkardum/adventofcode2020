@@ -60,7 +60,6 @@
 			"settings":
 			{
 				"buffer_size": 9505,
-				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
@@ -101,11 +100,11 @@
 		"selected_items":
 		[
 			[
-				"gitpus",
+				"gitpush",
 				"Git: Push"
 			],
 			[
-				"gitcom",
+				"gitco",
 				"Git: Commit"
 			],
 			[
@@ -113,8 +112,20 @@
 				"Git: Add All"
 			],
 			[
-				"gitco",
+				"gitst",
+				"Git: Status"
+			],
+			[
+				"gitpu",
+				"Git: Push"
+			],
+			[
+				"gitcom",
 				"Git: Commit"
+			],
+			[
+				"gitpus",
+				"Git: Push"
 			],
 			[
 				"gitcom\t",
@@ -135,10 +146,6 @@
 			[
 				"gita",
 				"Git: Add All"
-			],
-			[
-				"gitpu",
-				"Git: Push"
 			],
 			[
 				"gitsta",
@@ -355,8 +362,9 @@
 		"/C/Users/kjkar/Documents/projects/AOC2020/04.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/03.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/02.py",
-		"/C/Users/kjkar/Documents/projects/AOC2020/input.txt",
 		"/C/Users/kjkar/Documents/projects/AOC2020/01.py",
+		"/C/Users/kjkar/Documents/projects/AOC2020/input.txt",
+		"/C/Users/kjkar/Documents/projects/AOC2020/12.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/table.html",
 		"/C/Users/kjkar/Documents/projects/AOC2020/25.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/24.py",
@@ -371,7 +379,6 @@
 		"/C/Users/kjkar/Documents/projects/AOC2020/15.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/14.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/13.py",
-		"/C/Users/kjkar/Documents/projects/AOC2020/12.py",
 		"/C/Users/kjkar/Desktop/discord bot/bot.py",
 		"/C/Users/kjkar/Documents/projects/pythoncourse/script.js",
 		"/C/Users/kjkar/Documents/projects/pythoncourse/style.css",
@@ -553,7 +560,7 @@
 						[
 							[
 								0,
-								9505
+								0
 							]
 						],
 						"settings":
@@ -561,7 +568,7 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1487.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -580,8 +587,8 @@
 						"selection":
 						[
 							[
-								67,
-								67
+								0,
+								0
 							]
 						],
 						"settings":
