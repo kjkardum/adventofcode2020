@@ -68,7 +68,7 @@
 			"file": "14.py",
 			"settings":
 			{
-				"buffer_size": 917,
+				"buffer_size": 877,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -114,6 +114,14 @@
 				"Git: Add All"
 			],
 			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"gitst",
+				"Git: Status"
+			],
+			[
 				"carbon",
 				"Carbon: Share Selection"
 			],
@@ -140,10 +148,6 @@
 			[
 				"gitpush",
 				"Git: Push"
-			],
-			[
-				"gitst",
-				"Git: Status"
 			],
 			[
 				"gitpu",
@@ -326,10 +330,6 @@
 				"Git: Add All"
 			],
 			[
-				"status",
-				"Git: Status"
-			],
-			[
 				"git add",
 				"Git: Add All"
 			],
@@ -423,7 +423,7 @@
 	],
 	"find":
 	{
-		"height": 28.0
+		"height": 41.0
 	},
 	"find_in_files":
 	{
@@ -437,6 +437,23 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"t(t,",
+			"t(",
+			"f1",
+			"f2",
+			"f3",
+			"lv",
+			"ar",
+			"part",
+			"j",
+			"li",
+			"f",
+			"bits3",
+			"bits",
+			"bits2",
+			"bits",
+			"p",
+			"part",
 			"v",
 			"index",
 			"if",
@@ -547,9 +564,7 @@
 			"[",
 			")*2",
 			"loc",
-			"True",
-			"white_figures",
-			"moves"
+			"True"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -598,7 +613,7 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 10512.0,
+						"translation.y": 10451.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -610,15 +625,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 917,
+						"buffer_size": 877,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								434,
-								434
+								295,
+								295
 							]
 						],
 						"settings":
@@ -626,7 +641,7 @@
 							"syntax": "Packages/Python/Python.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 285.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
