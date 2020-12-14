@@ -59,16 +59,19 @@
 			"file": "input.txt",
 			"settings":
 			{
-				"buffer_size": 13795,
+				"buffer_size": 146,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "14.py",
+			"contents": "with open('input.txt','r') as f:\n\tn=int(f.readline())\n\tx=f.readline()\n\tl=[int(i) for i in x.split(\",\") if i.isnumeric()]\n\tr=[-i for i,k in enumerate(x.split(\",\")) if k.isnumeric()]\n    l=[int(f.readline()), (lambda x:[[int(i) for i in x.split(\",\") if i.isnumeric()],[-i for i,k in enumerate(x.split(\",\")) if k.isnumeric()]])(f.readline())]\nl2=[]\nfor i in l[1][0]:\n\tl2.append([(l[0]//i+1)*i,i])\nprint((min(l2)[0]-n)*min(l2)[1])\n\nprint((lambda n,r,k:(lambda g:sum([r[i] * (lambda f,*a:f(f,*a))(lambda o,q,t,m,a,x0,x1,m0: 0 if m0==1 else x1+(m0 if x1<0 else 0) if a<=1 else o(o,a//m,x0,a%m,m,x1-(a//m)*x0,x0,m0),0,0,n[i],g // n[i],0,1,n[i]) * g // n[i] for i in range(k)])%g)((lambda f,*a:f(f,*a))(lambda p,i,k,v:v if i>=k else p(p,i+1,k,v*n[i]),0,k,1)))(l[1][0],r[1][1],len(l[1][0])))\n  ",
+			"file": "13.py",
+			"file_size": 645,
+			"file_write_time": 132524498064260506,
 			"settings":
 			{
-				"buffer_size": 877,
+				"buffer_size": 785,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -370,6 +373,7 @@
 	],
 	"file_history":
 	[
+		"/C/Users/kjkar/Documents/projects/AOC2020/14.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/13.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/12.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/10.py",
@@ -399,7 +403,6 @@
 		"/C/Users/kjkar/Documents/projects/AOC2020/17.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/16.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/15.py",
-		"/C/Users/kjkar/Documents/projects/AOC2020/14.py",
 		"/C/Users/kjkar/Desktop/discord bot/bot.py",
 		"/C/Users/kjkar/Documents/projects/pythoncourse/script.js",
 		"/C/Users/kjkar/Documents/projects/pythoncourse/style.css",
@@ -437,6 +440,14 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"rem",
+			"num",
+			"prod",
+			"g",
+			"p",
+			"prod",
+			"pp",
+			"m0",
 			"t(t,",
 			"t(",
 			"f1",
@@ -556,15 +567,7 @@
 			"child",
 			"+",
 			"max",
-			"maxEval",
-			"inframe",
-			"x+figure.color",
-			"validmoves(self)",
-			"def moves",
-			"[",
-			")*2",
-			"loc",
-			"True"
+			"maxEval"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -588,7 +591,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -597,15 +600,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 13795,
+						"buffer_size": 146,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								13795,
-								13795
+								146,
+								146
 							]
 						],
 						"settings":
@@ -613,38 +616,40 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 10451.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "14.py",
+					"file": "13.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 877,
+						"buffer_size": 785,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								295,
-								295
+								69,
+								69
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
