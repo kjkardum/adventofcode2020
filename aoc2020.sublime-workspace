@@ -59,19 +59,16 @@
 			"file": "input.txt",
 			"settings":
 			{
-				"buffer_size": 146,
+				"buffer_size": 13795,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"contents": "with open('input.txt','r') as f:\n\tn=int(f.readline())\n\tx=f.readline()\n\tl=[int(i) for i in x.split(\",\") if i.isnumeric()]\nprint(n,l)\nl2=[]\nfor i in l:\n\tl2.append([(n//i+1)*i,i])\nprint((min(l2)[0]-n)*min(l2)[1])\n\n\nwith open('input.txt','r') as f:\n\tn=int(f.readline())\n\tx=f.readline()\n\tl=[int(k) for i,k in enumerate(x.split(\",\")) if k.isnumeric()]\n\tl2=[-i for i,k in enumerate(x.split(\",\")) if k.isnumeric()]\nprint(n,l,l2)\n\ndef inv(a, m) : \n    m0 = m \n    x0 = 0\n    x1 = 1\n    if (m == 1) : \n        return 0\n    # Apply extended Euclid Algorithm \n    while (a > 1) : \n        # q is quotient \n        q = a // m \n  \n        t = m \n  \n        # m is remainder now, process  \n        # same as euclid's algo \n        m = a % m \n        a = t \n  \n        t = x0 \n  \n        x0 = x1 - q * x0 \n  \n        x1 = t \n      \n    # Make x1 positive \n    if (x1 < 0) : \n        x1 = x1 + m0 \n  \n    return x1 \n  \n# k is size of num[] and rem[].  \n# Returns the smallest \n# number x such that: \n# x % num[0] = rem[0], \n# x % num[1] = rem[1], \n# .................. \n# x % num[k-2] = rem[k-1] \n# Assumption: Numbers in num[]  \n# are pairwise coprime \n# (gcd for every pair is 1) \ndef findMinX(num, rem, k) : \n      \n    # Compute product of all numbers \n    prod = 1\n    for i in range(0, k) : \n        prod = prod * num[i] \n  \n    # Initialize result \n    result = 0\n  \n    # Apply above formula \n    for i in range(0,k): \n        pp = prod // num[i] \n        result = result + rem[i] * inv(pp, num[i]) * pp \n      \n      \n    return result % prod \n  \n# Driver method \nnum = l\nrem = l2\nk = len(num) \nprint( \"x is \" , findMinX(num, rem, k)) \n  ",
-			"file": "13.py",
-			"file_size": 1727,
-			"file_write_time": 132523111708383007,
+			"file": "14.py",
 			"settings":
 			{
-				"buffer_size": 1630,
+				"buffer_size": 917,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -105,6 +102,18 @@
 		"selected_items":
 		[
 			[
+				"gitpus",
+				"Git: Push"
+			],
+			[
+				"gitcom",
+				"Git: Commit"
+			],
+			[
+				"gitad",
+				"Git: Add All"
+			],
+			[
 				"carbon",
 				"Carbon: Share Selection"
 			],
@@ -121,20 +130,8 @@
 				"Package Control: Install Package"
 			],
 			[
-				"gitpus",
-				"Git: Push"
-			],
-			[
 				"gitcomi",
 				"Git: Commit"
-			],
-			[
-				"gitcom",
-				"Git: Commit"
-			],
-			[
-				"gitad",
-				"Git: Add All"
 			],
 			[
 				"gitco",
@@ -373,6 +370,7 @@
 	],
 	"file_history":
 	[
+		"/C/Users/kjkar/Documents/projects/AOC2020/13.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/12.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/10.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/11.py",
@@ -402,7 +400,6 @@
 		"/C/Users/kjkar/Documents/projects/AOC2020/16.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/15.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/14.py",
-		"/C/Users/kjkar/Documents/projects/AOC2020/13.py",
 		"/C/Users/kjkar/Desktop/discord bot/bot.py",
 		"/C/Users/kjkar/Documents/projects/pythoncourse/script.js",
 		"/C/Users/kjkar/Documents/projects/pythoncourse/style.css",
@@ -440,6 +437,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"v",
+			"index",
+			"if",
 			"tr",
 			"l[i]",
 			"i+1",
@@ -582,15 +582,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 146,
+						"buffer_size": 13795,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								146
+								13795,
+								13795
 							]
 						],
 						"settings":
@@ -598,7 +598,7 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 10512.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -606,19 +606,19 @@
 				},
 				{
 					"buffer": 1,
-					"file": "13.py",
+					"file": "14.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1630,
+						"buffer_size": 917,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								508,
-								508
+								434,
+								434
 							]
 						],
 						"settings":
@@ -626,7 +626,7 @@
 							"syntax": "Packages/Python/Python.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 955.0,
+						"translation.y": 285.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
