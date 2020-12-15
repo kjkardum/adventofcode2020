@@ -1,9 +1,1 @@
-l=list(map(int,open('input.txt').read().split(",")))
-def run(l,to=2020):
-	d={k:i for i,k in enumerate(l)}
-	n=0
-	for i in range(len(l),to-1):
-		d[n],n=i, i-d.get(n,i)
-	return n
-print(run(l[:],2020))
-print(run(l[:],30000000))
+print((lambda l:[(lambda d,t,n:(lambda x:x[-1])([(lambda a:[n.update({0:i-d.get(a,i)}),d.update({a:i})])(n[0])for i in range(len(d),t-1)]+[n[0]]))({k:i for i,k in enumerate(l)},i,{0:0})for i in(2020,30000000)])(list(map(int,open('input.txt').read().split(",")))))

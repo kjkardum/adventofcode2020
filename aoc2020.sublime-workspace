@@ -72,7 +72,7 @@
 			"file": "15.py",
 			"settings":
 			{
-				"buffer_size": 296,
+				"buffer_size": 270,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -106,20 +106,24 @@
 		"selected_items":
 		[
 			[
-				"carbon",
-				"Carbon: Share Selection"
-			],
-			[
-				"gitpus",
-				"Git: Push"
-			],
-			[
 				"gitcom",
 				"Git: Commit"
 			],
 			[
 				"gitad",
 				"Git: Add All"
+			],
+			[
+				"carbo",
+				"Carbon: Share Selection"
+			],
+			[
+				"carbon",
+				"Carbon: Share Selection"
+			],
+			[
+				"gitpus",
+				"Git: Push"
 			],
 			[
 				"gitst",
@@ -629,15 +633,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 296,
+						"buffer_size": 270,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								131,
-								131
+								84,
+								84
 							]
 						],
 						"settings":
