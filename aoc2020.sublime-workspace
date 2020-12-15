@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"i-1",
+				"i-1"
+			],
+			[
 				"isal",
 				"isalnum\tfunction ⟠"
 			],
@@ -59,19 +63,16 @@
 			"file": "input.txt",
 			"settings":
 			{
-				"buffer_size": 146,
+				"buffer_size": 14,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"contents": "with open('input.txt','r') as f:\n\tn=int(f.readline())\n\tx=f.readline()\n\tl=[int(i) for i in x.split(\",\") if i.isnumeric()]\n\tr=[-i for i,k in enumerate(x.split(\",\")) if k.isnumeric()]\n    l=[int(f.readline()), (lambda x:[[int(i) for i in x.split(\",\") if i.isnumeric()],[-i for i,k in enumerate(x.split(\",\")) if k.isnumeric()]])(f.readline())]\nl2=[]\nfor i in l[1][0]:\n\tl2.append([(l[0]//i+1)*i,i])\nprint((min(l2)[0]-n)*min(l2)[1])\n\nprint((lambda n,r,k:(lambda g:sum([r[i] * (lambda f,*a:f(f,*a))(lambda o,q,t,m,a,x0,x1,m0: 0 if m0==1 else x1+(m0 if x1<0 else 0) if a<=1 else o(o,a//m,x0,a%m,m,x1-(a//m)*x0,x0,m0),0,0,n[i],g // n[i],0,1,n[i]) * g // n[i] for i in range(k)])%g)((lambda f,*a:f(f,*a))(lambda p,i,k,v:v if i>=k else p(p,i+1,k,v*n[i]),0,k,1)))(l[1][0],r[1][1],len(l[1][0])))\n  ",
-			"file": "13.py",
-			"file_size": 645,
-			"file_write_time": 132524498064260506,
+			"file": "15.py",
 			"settings":
 			{
-				"buffer_size": 785,
+				"buffer_size": 296,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -105,6 +106,10 @@
 		"selected_items":
 		[
 			[
+				"carbon",
+				"Carbon: Share Selection"
+			],
+			[
 				"gitpus",
 				"Git: Push"
 			],
@@ -117,16 +122,12 @@
 				"Git: Add All"
 			],
 			[
-				"status",
-				"Git: Status"
-			],
-			[
 				"gitst",
 				"Git: Status"
 			],
 			[
-				"carbon",
-				"Carbon: Share Selection"
+				"status",
+				"Git: Status"
 			],
 			[
 				"gitsta",
@@ -426,7 +427,7 @@
 	],
 	"find":
 	{
-		"height": 41.0
+		"height": 28.0
 	},
 	"find_in_files":
 	{
@@ -440,6 +441,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"l[i-1]",
+			"i-1-j",
+			"d[l[i-1]]",
+			"l2",
 			"rem",
 			"num",
 			"prod",
@@ -563,11 +568,7 @@
 			"black_figures",
 			"child",
 			"moves",
-			"moves+",
-			"child",
-			"+",
-			"max",
-			"maxEval"
+			"moves+"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -591,7 +592,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -600,15 +601,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 146,
+						"buffer_size": 14,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								146,
-								146
+								14,
+								14
 							]
 						],
 						"settings":
@@ -619,37 +620,35 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "13.py",
+					"file": "15.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 785,
+						"buffer_size": 296,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								69,
-								69
+								131,
+								131
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Python/Python.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
