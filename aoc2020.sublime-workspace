@@ -72,7 +72,7 @@
 			"file": "15.py",
 			"settings":
 			{
-				"buffer_size": 270,
+				"buffer_size": 263,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -106,6 +106,10 @@
 		"selected_items":
 		[
 			[
+				"gitpus",
+				"Git: Push"
+			],
+			[
 				"gitcom",
 				"Git: Commit"
 			],
@@ -120,10 +124,6 @@
 			[
 				"carbon",
 				"Carbon: Share Selection"
-			],
-			[
-				"gitpus",
-				"Git: Push"
 			],
 			[
 				"gitst",
@@ -633,22 +633,22 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 270,
+						"buffer_size": 263,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								84,
-								84
+								263,
+								263
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Python/Python.sublime-syntax"
 						},
-						"translation.x": 0.0,
+						"translation.x": 851.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
