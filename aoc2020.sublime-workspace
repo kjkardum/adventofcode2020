@@ -72,7 +72,7 @@
 			"file": "17.py",
 			"settings":
 			{
-				"buffer_size": 2808,
+				"buffer_size": 2630,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -106,7 +106,7 @@
 		"selected_items":
 		[
 			[
-				"gitpus",
+				"gitpush",
 				"Git: Push"
 			],
 			[
@@ -118,16 +118,20 @@
 				"Git: Add All"
 			],
 			[
+				"gitst",
+				"Git: Status"
+			],
+			[
+				"gitpus",
+				"Git: Push"
+			],
+			[
 				"carbo",
 				"Carbon: Share Selection"
 			],
 			[
 				"carbon",
 				"Carbon: Share Selection"
-			],
-			[
-				"gitst",
-				"Git: Status"
 			],
 			[
 				"status",
@@ -152,10 +156,6 @@
 			[
 				"gitco",
 				"Git: Commit"
-			],
-			[
-				"gitpush",
-				"Git: Push"
 			],
 			[
 				"gitpu",
@@ -431,7 +431,7 @@
 	],
 	"find":
 	{
-		"height": 41.0
+		"height": 28.0
 	},
 	"find_in_files":
 	{
@@ -633,19 +633,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2808,
+						"buffer_size": 2630,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1172,
-								1172
-							],
-							[
-								2716,
-								2716
+								1546,
+								1546
 							]
 						],
 						"settings":
@@ -653,7 +649,7 @@
 							"syntax": "Packages/Python/Python.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
