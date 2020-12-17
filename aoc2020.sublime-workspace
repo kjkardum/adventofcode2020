@@ -63,16 +63,16 @@
 			"file": "input.txt",
 			"settings":
 			{
-				"buffer_size": 14,
+				"buffer_size": 71,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "15.py",
+			"file": "17.py",
 			"settings":
 			{
-				"buffer_size": 263,
+				"buffer_size": 2808,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -378,6 +378,8 @@
 	],
 	"file_history":
 	[
+		"/C/Users/kjkar/Documents/projects/AOC2020/16.py",
+		"/C/Users/kjkar/Documents/projects/AOC2020/15.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/14.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/13.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/12.py",
@@ -406,8 +408,6 @@
 		"/C/Users/kjkar/Documents/projects/AOC2020/19.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/18.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/17.py",
-		"/C/Users/kjkar/Documents/projects/AOC2020/16.py",
-		"/C/Users/kjkar/Documents/projects/AOC2020/15.py",
 		"/C/Users/kjkar/Desktop/discord bot/bot.py",
 		"/C/Users/kjkar/Documents/projects/pythoncourse/script.js",
 		"/C/Users/kjkar/Documents/projects/pythoncourse/style.css",
@@ -431,7 +431,7 @@
 	],
 	"find":
 	{
-		"height": 28.0
+		"height": 41.0
 	},
 	"find_in_files":
 	{
@@ -445,6 +445,14 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"print(t)",
+			"6",
+			"9",
+			"[-1][-1]",
+			"kkk",
+			"7",
+			"m",
+			"range(3",
 			"l[i-1]",
 			"i-1-j",
 			"d[l[i-1]]",
@@ -564,15 +572,7 @@
 			"charImage",
 			"black_figures",
 			"screen",
-			"background",
-			"10",
-			"title",
-			"mw",
-			"tk",
-			"black_figures",
-			"child",
-			"moves",
-			"moves+"
+			"background"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -605,15 +605,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 14,
+						"buffer_size": 71,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								14,
-								14
+								0,
+								71
 							]
 						],
 						"settings":
@@ -629,27 +629,31 @@
 				},
 				{
 					"buffer": 1,
-					"file": "15.py",
+					"file": "17.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 263,
+						"buffer_size": 2808,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								263,
-								263
+								1172,
+								1172
+							],
+							[
+								2716,
+								2716
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Python/Python.sublime-syntax"
 						},
-						"translation.x": 851.0,
-						"translation.y": 0.0,
+						"translation.x": 0.0,
+						"translation.y": 1.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
