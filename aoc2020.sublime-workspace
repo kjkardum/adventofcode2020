@@ -63,16 +63,16 @@
 			"file": "input.txt",
 			"settings":
 			{
-				"buffer_size": 71,
+				"buffer_size": 20111,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "17.py",
+			"file": "18.py",
 			"settings":
 			{
-				"buffer_size": 2630,
+				"buffer_size": 613,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -106,7 +106,7 @@
 		"selected_items":
 		[
 			[
-				"gitpush",
+				"gitpus",
 				"Git: Push"
 			],
 			[
@@ -118,12 +118,12 @@
 				"Git: Add All"
 			],
 			[
-				"gitst",
-				"Git: Status"
+				"gitpush",
+				"Git: Push"
 			],
 			[
-				"gitpus",
-				"Git: Push"
+				"gitst",
+				"Git: Status"
 			],
 			[
 				"carbo",
@@ -378,6 +378,7 @@
 	],
 	"file_history":
 	[
+		"/C/Users/kjkar/Documents/projects/AOC2020/17.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/16.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/15.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/14.py",
@@ -407,7 +408,6 @@
 		"/C/Users/kjkar/Documents/projects/AOC2020/20.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/19.py",
 		"/C/Users/kjkar/Documents/projects/AOC2020/18.py",
-		"/C/Users/kjkar/Documents/projects/AOC2020/17.py",
 		"/C/Users/kjkar/Desktop/discord bot/bot.py",
 		"/C/Users/kjkar/Documents/projects/pythoncourse/script.js",
 		"/C/Users/kjkar/Documents/projects/pythoncourse/style.css",
@@ -445,6 +445,20 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			")",
+			"sum",
+			"T(",
+			"N",
+			"md",
+			"nm",
+			"l2",
+			"l[",
+			"l",
+			"mov",
+			"l4",
+			"ltt",
+			"copy",
+			"for k in range(6)",
 			"print(t)",
 			"6",
 			"9",
@@ -558,21 +572,7 @@
 			"        ",
 			"       ",
 			"      ",
-			"     ",
-			"    ",
-			"50",
-			"icon",
-			"black_figures",
-			"black_rect",
-			"black_figures[-1]",
-			"[-1]",
-			"pygame",
-			"black_rect",
-			"black_figures",
-			"charImage",
-			"black_figures",
-			"screen",
-			"background"
+			"     "
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -605,15 +605,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 71,
+						"buffer_size": 20111,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								71
+								20111,
+								20111
 							]
 						],
 						"settings":
@@ -621,7 +621,7 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 6807.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -629,19 +629,19 @@
 				},
 				{
 					"buffer": 1,
-					"file": "17.py",
+					"file": "18.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2630,
+						"buffer_size": 613,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1546,
-								1546
+								583,
+								583
 							]
 						],
 						"settings":
